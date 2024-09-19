@@ -1,4 +1,4 @@
-# Reference page for module `Sum`
+Reference page for module `Sum`
 
 Esta página se refiere a la documentación de las funciones del módulo.
 
